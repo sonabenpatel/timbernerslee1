@@ -1,0 +1,38 @@
+body{
+background-color:#e9f542;
+text-align:center;
+}
+h1{
+color:rgb(13, 80, 57);
+border-style:dotted;
+border-color:rgb(129, 35, 153);
+border-width:5px;
+padding:10px;
+}
+h2{
+color:rgb(13, 80, 57);
+border-style:dotted;
+border-color:rgb(129, 35, 153);
+border-width:5px;
+padding:10px;
+}
+image{
+border-style:dotted;
+border-radius:40px;
+border-color:black;
+border: width 10px;
+padding:10px;
+width:400px;
+height:300px;
+}
+p{
+color:rgb(6, 32, 54);
+font-size:20px;
+font-weight:bolder;
+font-style:oblique;
+background-color:rgb(99, 99, 182)
+border-style:solid;
+border-color:black;
+border-width:5px;
+padding:10px;
+}
